@@ -1,0 +1,46 @@
+_repo: The-Works-of-Voltaire-Vol-IV-of-XLIII-Romances-Vol-III-of-III-and-A-Treatise-on-Toleration_49726
+contributor:
+  annotator:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollet, T. (Tobias)
+    - Smollett, Tobias George
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+  contributors:
+  - agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+  - agent_name: Leigh, Oliver Herbrand Gordon
+    alias: Leigh, Oliver H. G.
+    gutenberg_agent_id: '37847'
+    url: http://www.gutenberg.org/2009/agents/37847
+  translator:
+    agent_name: Fleming, William F.
+    gutenberg_agent_id: '37848'
+    url: http://www.gutenberg.org/2009/agents/37848
+creator:
+  author:
+    agent_name: François Marie Arouet (Voltaire)
+    gutenberg_agent_id: '45512'
+    url: http://www.gutenberg.org/2009/agents/45512
+description: ''
+gutenberg_issued: '2015-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Works of Voltaire, Vol. IV of XLIII.
+
+  Romances, Vol. III of III, and A Treatise on Toleration.'
+url: http://www.gutenberg.org/ebooks/49726
