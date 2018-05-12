@@ -1,4 +1,5 @@
 _repo: The-Works-of-Voltaire-Vol-IV-of-XLIII-Romances-Vol-III-of-III-and-A-Treatise-on-Toleration_49726
+_version: 0.1.0
 contributor:
   annotator:
     agent_name: Smollett, T. (Tobias)
@@ -26,12 +27,17 @@ contributor:
     agent_name: Fleming, William F.
     gutenberg_agent_id: '37848'
     url: http://www.gutenberg.org/2009/agents/37848
+covers:
+- cover_type: archival
+  image_path: 49726-h/images/cover.jpg
 creator:
   author:
     agent_name: François Marie Arouet (Voltaire)
     gutenberg_agent_id: '45512'
     url: http://www.gutenberg.org/2009/agents/45512
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49726#The-Works-of-Voltaire-Vol-IV-of-XLIII-Romances-Vol-III-of-III-and-A-Treatise-on-Toleration
 gutenberg_issued: '2015-08-17'
 gutenberg_type: Text
 identifiers:
