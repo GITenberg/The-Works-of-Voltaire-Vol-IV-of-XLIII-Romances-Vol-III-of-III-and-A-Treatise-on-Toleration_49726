@@ -46,6 +46,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Works of Voltaire, Vol. IV of XLIII.
 
   Romances, Vol. III of III, and A Treatise on Toleration.'
